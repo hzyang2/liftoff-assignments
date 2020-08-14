@@ -8,12 +8,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Searching Clothing
-My project goal is to get users to find the clothes they want. Users can find men's, women's, and children's clothes, and will find a variety of clothes according to the spring, summer, autumn and winter seasons. They will also find clothes that fit the price range. My browser will allow users to see clothes through image files, and they will choose clothes according to their taste. Users will be asked to authenticate for their security, too.
+My project goal is to get users to find the clothes they want. Customers can find men's, women's, baby's, boy's and girl's clothes, and will find a variety of clothes according to the price, size and brand. My browser will allow customers to see clothes through image files, and they will choose clothes according to their taste. Customers will be asked to authenticate for their security, too.
 
 ### Features
-•	User login: Users will be able to create accounts and log in to the application. 
-•	Search: Users will be able to search for their preferable clothes watching the images of clothes.
-•	List user’s choices: Users will see their selecting clothes.
+•	Customer login: Customers will be able to create accounts and log in to the application. 
+•	Search: Customers will be able to search for their preferable clothes watching the images of clothes.
+•	List customers’s choices: Customers will see their selecting clothes.
 
 ### Technologies
 Java
