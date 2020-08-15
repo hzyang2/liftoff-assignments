@@ -26,4 +26,4 @@ Thymeleaf templates
 I would like to know more deeply and accurately how MVC is related and affecting each other. I also want to develop my coding skill and learn how to get images and display them consistently.
 
 ### Project Tracker
-https://trello.com/lukeheezikyang/boards
+https://trello.com/b/cc4oNt6i/event-tracker
